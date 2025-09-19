@@ -20,3 +20,4 @@ Notes and usage details for html-now.github.io.
 - fix a small wording issue
 - clarify the setup steps
 - add a note about the defaults
+- link the usage section
